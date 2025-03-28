@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Consistency is the key",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+      "author": "Daniel"
+    },
+    {
+      "id": "2",
+      "title": "Money is everything",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+      "author": "Gun"
+    },
+    {
+      "id": "3",
+      "title": "Do it today",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+      "author": "Vasco"
+    },
+    {
+      "id": "4",
+      "title": "All about hard work",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+      "author": "Mike"
+    }
+  ]
+}
